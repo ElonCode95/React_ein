@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactobjekt/static/css/main.77bc4ac6.css",
+    "main.js": "/reactobjekt/static/js/main.f1c1ab88.js",
+    "static/js/787.1a681886.chunk.js": "/reactobjekt/static/js/787.1a681886.chunk.js",
+    "static/media/hero3.png": "/reactobjekt/static/media/hero3.cd92ccf4ae8203dcd26d.png",
+    "static/media/react.png": "/reactobjekt/static/media/react.c4e191e6de1767d8f007.png",
+    "static/media/css.png": "/reactobjekt/static/media/css.95cb0a9c5fff2e5a14e0.png",
+    "static/media/Section.png": "/reactobjekt/static/media/Section.ee8e0305ea3bbcaa5fab.png",
+    "static/media/Hero.png": "/reactobjekt/static/media/Hero.5e97b1c041b9ae91b090.png",
+    "static/media/html.png": "/reactobjekt/static/media/html.a719fa55e68eb653e715.png",
+    "static/media/Caerd.png": "/reactobjekt/static/media/Caerd.da3ad229b09a36227efd.png",
+    "static/media/Js.png": "/reactobjekt/static/media/Js.1e7ec9cb5cebabad2496.png",
+    "index.html": "/reactobjekt/index.html",
+    "main.77bc4ac6.css.map": "/reactobjekt/static/css/main.77bc4ac6.css.map",
+    "main.f1c1ab88.js.map": "/reactobjekt/static/js/main.f1c1ab88.js.map",
+    "787.1a681886.chunk.js.map": "/reactobjekt/static/js/787.1a681886.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77bc4ac6.css",
+    "static/js/main.f1c1ab88.js"
+  ]
+}
