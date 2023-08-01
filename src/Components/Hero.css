@@ -1,0 +1,33 @@
+.hero-main {
+    background: url(../images/hero3.png) no-repeat;
+    /* background-color: #252525; */
+    color: #fee0e0;
+    padding: 50px;
+    border-radius: 25px;
+
+}
+
+.hero-title {
+    max-width: 500px;
+}
+
+.hero-subText {
+    font-size: 50px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-weight: 900;
+}
+
+.hero-subText em {
+    font-size: normal;
+    color: #e90000;
+}
+
+.hero-text {
+    font-size: 20px;
+    color: v #fee0e0;
+    font-weight: 400;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+
+}

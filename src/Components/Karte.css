@@ -1,0 +1,12 @@
+.containert {
+    color: #fee0e0;
+    font-size: 20px;
+    padding: 3px 10px 0 80px;
+    /* display: inline; */
+}
+
+.karte-items {
+    flex: 1 25%;
+    flex-wrap: wrap;
+
+}

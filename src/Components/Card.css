@@ -1,0 +1,33 @@
+.main-item-one {
+    padding: 10px 7px 7px 7px;
+    border-radius: 10;
+    background-color: #4e575d;
+    margin-bottom: 5px;
+    /* display: flex; */
+
+}
+
+.main-img {
+    width: 100;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.main-items {
+    flex: 1 25%;
+    /* display: inline-flex; */
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    /* padding: 5px; */
+}
+
+.container {
+    font-size: 5px;
+    line-height: 1em;
+}

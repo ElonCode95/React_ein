@@ -1,0 +1,5 @@
+.card {
+    background-color: var(--color-dark);
+    color: #fee0e0;
+    font-size: 20px;
+}

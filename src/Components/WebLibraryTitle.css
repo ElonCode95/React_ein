@@ -1,0 +1,15 @@
+.library-subText {
+    background-color: #282b2d;
+    color: #fee0e0;
+    border-radius: 25px;
+    margin-top: 25PX;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    font-weight: 400;
+}
+
+.library-subText em {
+    font-size: normal;
+    color: #e90000;
+}
